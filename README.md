@@ -30,7 +30,7 @@ CREATE DATABASE taskdb;
 ```bash
 cd frontend
 npm install
-quasar dev
+npm run start:dev
 ```
 
 ## Run Backend
